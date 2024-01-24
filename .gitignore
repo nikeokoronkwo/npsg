@@ -1,0 +1,44 @@
+# Compiled binary files
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# Go binary
+/bin/
+*.test
+
+# Dependency directories
+/vendor/
+/go.sum
+/go.mod
+/bin
+
+# Output of 'go test -cover'
+/coverage.txt
+
+# macOS system files
+.DS_Store
+
+# JetBrains IDE files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Node.js files
+node_modules/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Temporary directory
+/tmp/
