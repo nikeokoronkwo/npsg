@@ -33,12 +33,3 @@
 # Visual Studio Code files
 .vscode/
 
-# Node.js files
-node_modules/
-
-# Compiled Python files
-__pycache__/
-*.pyc
-
-# Temporary directory
-/tmp/
