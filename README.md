@@ -2,8 +2,6 @@
 
 This is for the cli password manager "npsg", a cli tool used for making and managing passwords.
 
-Made by Nikechukwu Okoronkwo
-
 ## Installation
 
 You can install the **npsg** tool from the package archives. Check the link or check below for downloadable versions (tar.gz)
